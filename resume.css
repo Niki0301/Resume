@@ -1,0 +1,45 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+body{
+    /* display: flex;
+    align-items: center; */
+    /* box-sizing: border-box; */
+    /* justify-content: center;
+    min-height: 100vh; */
+    margin: auto;
+    padding: 30px;
+    border: 2px solid black;
+    width: 65%;
+    /* font-family: 'Baloo 2', cursive; */
+font-family: 'Libre Baskerville', serif;
+}
+.container img{
+    border: 2px solid black;
+    width: 90px;
+    height: 140px;
+}
+.header{
+ display: float;
+ }
+ .left {
+    display: inline-block;
+    position: relative;
+    top: 70px;
+    left: -95px;
+}
+.right {
+    display: inline-block;
+    position: relative;
+    
+    right: -180px;
+    top: 67px;
+}
+
+h3{
+    background-color: rgb(160, 156, 156);
+    
+}
